@@ -35,6 +35,3 @@ Problems here cover data structures and algorithms including:
 - Intervals
 - Segment Trees and Fenwick Trees
 
-## Contributing
-
-These are my personal solutions, but suggestions and better approaches are always welcome. Feel free to open an issue or a pull request.
